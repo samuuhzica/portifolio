@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  font-size: 62.5%;
+}
+
+body{
+  font-size: 1.6rem;
+  background-image: url(./assets/thomas-heintz-0tgMnMIYQ9Y-unsplash.jpg);
+  background-repeat: no-repeat;
+  margin: 0 auto;
+}
+
+header{
+  display: flex;
+  justify-content: space-between;
+  padding: 6rem;
+}
+ul{
+  display: flex;
+  gap: 10rem;
+}
